@@ -8,7 +8,7 @@ sidebar_label: What is React 360?
 
 React 360 is a framework for the creation of 3D and VR user interfaces. Built on top of React – a library designed to simplify the creation of complex UI – React 360 allows you to use familiar tools and concepts to create immersive 360 content on the web.
 
-### What is it for?
+### What is it for??
 
 React 360 is optimized for the creation of user interfaces that power rich multimedia experiences. It provides the tools necessary to to create high-quality interfaces and delivers a strong foundation for applications built around 360 and 3D content. The techniques and tools used in React 360 are similar to the ones used by Oculus and Facebook when developing their VR applications on mobile and PC platforms, and are the result of years of research into best practices.
 
